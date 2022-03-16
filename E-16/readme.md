@@ -10,7 +10,7 @@
 - 최종 성능 : Recall@20: 0.151042 / MRR@20: 0.049617
 
 ### 2. `UserId`와 `Time`을 기준으로 SessionId를 정의
-- 코드 : [[E-16] Movielens_SBR_2](  )
+- 코드 : [[E-16] Movielens_SBR_2](https://github.com/aramssong/aiffel/blob/main/E-16/%5BE-16%5D%20Movielens_SBR_2.ipynb)
 - 최종 하이퍼파라미터 : 위와 동일하게 진행
 - 최종 성능 : Recall@20: 0.250651 / MRR@20: 0.087745
 
