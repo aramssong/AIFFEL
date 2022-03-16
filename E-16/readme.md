@@ -5,7 +5,7 @@
 2. `UserId`와 `Time`을 기준으로 SessionId를 정의
   
 ### 1. `UserId`를 SessionId로 정의
-- 코드 :[[E-16] Movielens_SBR](  )
+- 코드 :[[E-16] Movielens_SBR](https://github.com/aramssong/aiffel/blob/main/E-16/%5BE-16%5D%20Movielens_SBR.ipynb)
 - 최종 하이퍼파라미터 : batch_size=128, hsz=50, drop_rate=0.1, lr=0.001, epochs=10, k=20
 - 최종 성능 : Recall@20: 0.151042 / MRR@20: 0.049617
 
