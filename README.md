@@ -5,7 +5,7 @@
 | --- | --- | --- | --- |
 | 1 | 인공지능과 가위바위보 하기 | Image Classification, CNN | [link](https://github.com/aramssong/aiffel/blob/main/[E-01]RockPaperScissor.ipynb) |
 | 2 | Iris의 세 가지 품종, 분류해볼 수 있겠어요? | sklearn, ML Algorithm, Confusion Matrix | [link](https://github.com/aramssong/aiffel/tree/main/E-02) |
-| 3 | 카메라 스티커앱 만들기 첫걸음 | Face Detection, Landmark Localization, dlib, opencv | [link](https://github.com/aramssong/aiffel/blob/main/[E-03]Camera Sticker App.ipynb) |
+| 3 | 카메라 스티커앱 만들기 첫걸음 | Face Detection, Landmark Localization, dlib, opencv | [link](https://github.com/aramssong/aiffel/blob/main/%5BE-03%5DCamera%20Sticker%20App.ipynb) |
 | 4 | 작사가 인공지능 만들기 | Generation Model, RNN | [link](https://github.com/aramssong/aiffel/blob/main/[E-04] lyrics_generator.ipynb) |
 | 5 | 나의 첫 번째 캐글 경진대회, 무작정 따라해보기 | Kaggle, EDA | [link](https://github.com/aramssong/aiffel/blob/main/[E-05] Kaggle_House_Price_Prediction.ipynb) |
 | 6 | 영화리뷰 텍스트 감성분석하기 | word2vec, RNN, 1-D CNN, GlobalMaxPooling1D | [link](https://github.com/aramssong/aiffel/blob/main/[E-06] Sentiment_Classification.ipynb) |
