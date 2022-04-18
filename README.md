@@ -1,7 +1,7 @@
 # 🗼 AIFFEL AI 교육 프로젝트
 인공지능 혁신학교 AIFFEL(아이펠)의 Exploration 프로젝트입니다.
 
-| No. | Project | keyword | link |
+| No. | Project | keyword | code |
 | --- | --- | --- | --- |
 | 1 | 인공지능과 가위바위보 하기 | Image Classification, CNN | [link](https://github.com/aramssong/aiffel/blob/main/[E-01]RockPaperScissor.ipynb) |
 | 2 | Iris의 세 가지 품종, 분류해볼 수 있겠어요? | sklearn, ML Algorithm, Confusion Matrix | [link](https://github.com/aramssong/aiffel/tree/main/E-02) |
