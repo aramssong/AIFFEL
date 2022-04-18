@@ -1,5 +1,5 @@
 # 🗼 AIFFEL AI 교육 프로젝트
-인공지능 혁신학교 AIFFEL(아이펠)의 Exploration 프로젝트
+인공지능 혁신학교 AIFFEL(아이펠)의 Exploration 프로젝트입니다.
 
 | No. | Project | keyword | link |
 | --- | --- | --- | --- |
