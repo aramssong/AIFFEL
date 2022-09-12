@@ -2,7 +2,6 @@
 ![image](https://user-images.githubusercontent.com/97036411/188098053-65fd9fd1-6854-4492-aeb3-00a6dd260f0d.png)
 ---
 DACON에 있는 전력사용량 예측 AI 경진대회의 데이터를 분석하는 주제인 데이터톤의 결과물입니다.
-  
 ([DACON 전력사용량 예측 AI 경진대회](https://dacon.io/competitions/official/235736/overview/description))
 
 - **데이터** : 60개 건물들의 2020년 6월 1일 부터 2020년 8월 24일까지의 데이터
@@ -25,6 +24,7 @@ DACON에 있는 전력사용량 예측 AI 경진대회의 데이터를 분석하
 
 ---
 📌 **분석 목적**
+    
     각 건물별 전력 사용량 파악, 시각화하여 건물의 특성에 따라 미치는 요소를 발견해보자
     
 📌 **결론**
